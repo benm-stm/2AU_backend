@@ -14,7 +14,7 @@ SUBJECT===
          </div>
          <br>
          <div style='font-size:8.5pt;font-family:"Tahoma",sans-serif'>
-            =upgradeInstance= est mis à jour. Merci de réserver une partie de votre temps  à la validation de la release =version= Sous testlink  http://=testPlatformLink=  .
+            =upgradeInstance= est mis à jour. Merci de réserver une partie de votre temps  à la validation de la release =release= Sous testlink  http://=testPlatformLink=  .
             Le build est intitulé [Tuleap_=release= validation on https://=upgradeInstance=]
          </div>
          <br>

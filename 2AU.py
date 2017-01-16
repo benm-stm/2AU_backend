@@ -55,9 +55,9 @@ class upgradeAutomation:
         else:
             return False
 
-    def run_croner(self, release, instance, logger, cron_file, section_name, cron_hour, cron_minute, deadline, app_location, db):
+    def run_croner(self, logger, cron_file, section_name, cron_hour, cron_minute, deadline, app_location, db, python_location):
         #if the param passed is to store crons
-        cron = croner.croner(release, instance, logger, cron_file, section_name, cron_hour, cron_minute, deadline, app_location)
+        cron = croner.croner(logger, cron_file, section_name, cron_hour, cron_minute, deadline, app_location, python_location)
         #remove the created section to clean the cron file
         cron.refreshCrontab()
         #fill a new section in the cron file
@@ -81,13 +81,13 @@ logger.info('---- logger init ----')
 # get input for the py script
 argv = sys.argv[1:]
 try:
-    opts, args = getopt.getopt(argv,"hcsi:r:p:u:",["instances=","release=","playbooks=","rule="])
+    opts, args = getopt.getopt(argv,"hcsi:r:p:u:e:",["instances=","release=","playbooks=","rule=","eventid="])
 except getopt.GetoptError:
-    print '%s -i <instances array> -r <release> -p <playbooks array> -u <rule> -s -c \n -c : launch croning process who\'ll read from db and insert entries into crontab\n -s : run webserver to serve restful calls' % __file__
+    print '%s -i <instances array> -r <release> -p <playbooks array> -u <rule> -e <eventid> -s -c \n -c : launch croning process who\'ll read from db and insert entries into crontab\n -s : run webserver to serve restful calls' % __file__
 
 for opt, arg in opts:
     if opt == "-h":
-        print '%s -i <instances array> -r <release> -p <playbooks array> -u <rule> -s -c \n -c : launch croning process who\'ll read from db and insert entries into crontab\n -s : run webserver to serve restful calls' % __file__
+        print '%s -i <instances array> -r <release> -p <playbooks array> -u <rule> -e <eventid> -s -c \n -c : launch croning process who\'ll read from db and insert entries into crontab\n -s : run webserver to serve restful calls' % __file__
         sys.exit()
     elif opt =="-c":
         is_croner = True
@@ -101,6 +101,8 @@ for opt, arg in opts:
         playbooks = arg.split(",")
     elif opt in ("-u", "--rule"):
         rule = arg
+    elif opt in ("-e", "--eventid"):
+	eventID = arg
 
 #Verify if the conf params are at least valide
 if not os.path.exists(playbooks_path):
@@ -112,17 +114,18 @@ if playbooks:
         playbooks[i] = playbooks_path + playbooks[i]
 
 #check weather the croner call was well issued
-if is_croner and instances and release:
+if is_croner:
     #the croner part needs access to the DB
-    db = dao.dao(host, user, passwd, db_name)
+    db = dao.DAO()
     AU = upgradeAutomation(release, instances, rule, defined_rules, logger)
-    AU.run_croner(release, instance, logger, cron_file, section_name, cron_hour, cron_minute, deadline, app_location, db)
+    AU.run_croner(logger, cron_file, section_name, cron_hour, cron_minute, deadline, app_location, db, python_location)
 #check weather the launcher call was well issued
 elif instances and release:
     #Instanciate needed classes (or lets say tools)
+    db = dao.DAO()
     AU = upgradeAutomation(release, instances, rule, defined_rules, logger)
-    sm = sendMail.sendMail(instances, release, logger, deadline, opretionLaunchTime, opretionFinishTime, testPlatformLink)
-    pb = playbook.playbook(instances, playbooks, logger)
+    sm = sendMail.sendMail(instances, release, logger, opretionLaunchTime, opretionFinishTime, testPlatformLink, eventID, db.getDao())
+    pb = playbook.playbook(hostingPlatform, playbooks, logger)
 
     #extract given rules into an array of rules
     rules = AU.getRules()
@@ -140,4 +143,4 @@ elif run_webserver:
     server = webservices.webservices()
     server.run(port)
 else:
-    print '%s -i <instances array> -r <release> -p <playbooks array> -u <rule> -s -c \n -c : launch croning process who\'ll read from db and insert entries into crontab\n -s : run webserver to serve restful calls' % __file__
+    print '%s -i <instances array> -r <release> -p <playbooks array> -u <rule> -e <eventid> -s -c\n -c : launch croning process who\'ll read from db and insert entries into crontab\n -s : run webserver to serve restful calls' % __file__

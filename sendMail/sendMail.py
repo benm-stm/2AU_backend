@@ -7,14 +7,15 @@ import datetime
 
 class sendMail:
 
-    def __init__(self, instances, release, logger, deadline, opretionLaunchTime, opretionFinishTime, testPlatformLink):
+    def __init__(self, instances, release, logger, opretionLaunchTime, opretionFinishTime, testPlatformLink, eventID, cursor):
         self.release=release
         self.instances=instances
         self.logger= logger
-        self.deadline = deadline
         self.opretionLaunchTime = opretionLaunchTime
         self.opretionFinishTime = opretionFinishTime
         self.testPlatformLink = testPlatformLink
+	self.eventID = eventID
+	self.cursor = cursor
     
     def getSection( self, data, section_name):
         try:
@@ -27,12 +28,31 @@ class sendMail:
             self.logger.error("section name "+section_name+" does not exist")
             return ""
 
+    def getEventStartDate(self, cur, eventID):
+        cur.execute("SELECT start FROM evenement WHERE id="+eventID)
+        for row in cur.fetchall():
+            return  row[0]
+
+    def getEventEndDate(self, cur, eventID):
+        cur.execute("SELECT end FROM evenement WHERE id="+eventID)
+        for row in cur.fetchall():
+            return  row[0]
+
+    def getEventTime(self, startDate, endDate):
+	if str(startDate.hour) != '0' or str(startDate.minute) != '0' or  str(startDate.hour) != '0' or str(startDate.minute) != '0':
+	    startTime = str(startDate.hour)+":"+str(startDate.minute)
+	    endTime = str(endDate.hour)+":"+str(endDate.minute)
+	    return startTime, endTime
+	else:
+	    return self.opretionLaunchTime, self.opretionFinishTime
+
     def send(self, fromaddr,toaddr,server, content):
-        now = datetime.datetime.now()
-        end_date_raw = now + datetime.timedelta(days=self.deadline)
-        
-        end_date = end_date_raw.strftime("%A %d %B %Y")
-        short_current_date = end_date_raw.strftime("%d-%m-%Y")
+        start_date_raw = self.getEventStartDate(self.cursor, self.eventID)
+	end_date_raw = self.getEventEndDate(self.cursor, self.eventID)
+	startTime,endTime = self.getEventTime(start_date_raw, end_date_raw)
+	
+        end_date = start_date_raw.strftime("%A %d %B %Y")
+        short_current_date = start_date_raw.strftime("%d-%m-%Y")
 
         server = smtplib.SMTP(server)
         for i in range(0,len(self.instances)):
@@ -44,8 +64,8 @@ class sendMail:
             data = data.replace("=upgradeDate=", end_date)
             data = data.replace("=upgradeInstance=", self.instances[i])
             data = data.replace("=shortUpgradeDate=", short_current_date)
-            data = data.replace("=opretionLaunchTime=", self.opretionLaunchTime)
-            data = data.replace("=opretionFinishTime=", self.opretionFinishTime)
+            data = data.replace("=opretionLaunchTime=", startTime)
+            data = data.replace("=opretionFinishTime=", endTime)
             data = data.replace("=release=", self.release)
             data = data.replace("=testPlatformLink=", self.testPlatformLink)
 
@@ -57,6 +77,7 @@ class sendMail:
                 msg['To'] = ", ".join(toaddr)
             else:
                 msg['To'] = self.getSection(data, "TO")
+		msg['Cc'] = self.getSection(data, "CC")
                 toaddr = [self.getSection(data, "TO")]
                 self.logger.info("recipients are specified in the template : "+str(toaddr))
             msg['Subject'] = self.getSection(data, "SUBJECT")

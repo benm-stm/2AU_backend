@@ -4,10 +4,16 @@ for now there are 3 sections
 => SUBJECT
 => BODY
 
+#codex-team@lists.codex.cro.st.com
 #you can ad users using this format : mail1, mail2, mail3 ...
+#ICT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com
 ===TO
-mohamed-rafik.benmansour@st.com
+ICT_ProdOps_Mgmt_Crolles@list.st.com
 TO===
+
+===CC
+codex-team@lists.codex.cro.st.com, crolles.bynight@st.com
+CC===
 
 ===SUBJECT
 FW: Consigne pour arrêt Codex: =upgradeDate=

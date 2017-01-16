@@ -700,3 +700,353 @@
 2016-11-18 16:58:04,516 - 2AU - INFO - ---- logger init ----
 2016-11-21 10:14:32,071 - 2AU - INFO - ---- logger init ----
 2016-11-21 10:15:56,762 - 2AU - INFO - ---- logger init ----
+2017-01-03 13:27:28,245 - 2AU - INFO - ---- logger init ----
+2017-01-03 13:39:04,122 - 2AU - INFO - ---- logger init ----
+2017-01-03 13:39:18,403 - 2AU - INFO - ---- logger init ----
+2017-01-03 13:39:32,341 - 2AU - INFO - ---- logger init ----
+2017-01-03 13:39:42,433 - 2AU - INFO - ---- logger init ----
+2017-01-03 13:40:10,307 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:28:38,188 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:32:50,688 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:33:03,007 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:33:18,056 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:34:07,639 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:34:38,885 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:34:43,033 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:35:19,836 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:35:55,836 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:36:25,802 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:38:48,306 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:39:10,596 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:39:41,924 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:40:04,100 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:40:28,421 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:40:30,818 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:41:51,200 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:42:38,481 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:43:48,214 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:44:08,855 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:44:30,840 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:44:57,577 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:45:16,715 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:45:46,687 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:45:54,220 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:46:15,727 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:46:31,961 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:47:03,227 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:47:22,484 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:47:37,901 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:48:23,383 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:49:11,470 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:49:13,439 - 2AU - INFO - ---- logger init ----
+2017-01-03 16:49:43,226 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:00:46,446 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:04:25,568 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:05:58,598 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:07:17,118 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:07:27,081 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:07:39,858 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:07:42,569 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:07:54,148 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:08:41,068 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:10:00,618 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:13:11,132 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:13:11,134 - 2AU - INFO - selected rules : [8]
+2017-01-03 17:13:11,212 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:15:11,164 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:15:11,165 - 2AU - INFO - selected rules : [8]
+2017-01-03 17:15:11,189 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:15:14,204 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:16:53,573 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:17:40,777 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:18:01,931 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:18:32,786 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:18:47,299 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:19:49,194 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:20:51,060 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:23:23,424 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:27:01,178 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:28:10,964 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:30:09,799 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:30:18,869 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:30:55,486 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:31:06,242 - 2AU - INFO - ---- logger init ----
+2017-01-03 17:31:06,243 - 2AU - INFO - selected rules : [4, 1]
+2017-01-03 17:31:06,271 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:31:06,293 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 09:56:26,676 - 2AU - INFO - ---- logger init ----
+2017-01-04 09:56:26,677 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 09:56:26,688 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 09:56:26,709 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:28:03,329 - 2AU - INFO - ---- logger init ----
+2017-01-04 11:28:03,330 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 11:28:03,346 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:28:03,371 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:29:55,164 - 2AU - INFO - ---- logger init ----
+2017-01-04 11:29:55,166 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 11:29:55,170 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:29:55,192 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:05:43,145 - 2AU - INFO - ---- logger init ----
+2017-01-04 15:05:43,147 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 15:05:43,152 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:05:43,174 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:06:46,160 - 2AU - INFO - ---- logger init ----
+2017-01-04 15:06:46,161 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 15:06:46,169 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:06:46,201 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:06:46,553 - 2AU - INFO - 3
+2017-01-04 15:10:42,046 - 2AU - INFO - ---- logger init ----
+2017-01-04 15:10:42,047 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 15:10:42,058 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:42,109 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:45,849 - 2AU - INFO - 3
+2017-01-04 15:10:47,640 - 2AU - INFO - ---- logger init ----
+2017-01-04 15:10:47,641 - 2AU - INFO - selected rules : [4, 1]
+2017-01-04 15:10:47,643 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:47,664 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:48,115 - 2AU - INFO - 3
+2017-01-04 15:11:17,436 - 2AU - INFO - ---- logger init ----
+2017-01-04 15:11:17,437 - 2AU - INFO - selected rules : [8, 2]
+2017-01-04 15:11:17,459 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:11:17,479 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 09:55:23,117 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:18:04,722 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:18:48,824 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:19:27,950 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:19:55,329 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:21:47,483 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:22:53,742 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:23:08,230 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:23:08,231 - 2AU - INFO - selected rules : [4, 1]
+2017-01-05 12:23:08,256 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:23:08,282 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:23:08,752 - 2AU - INFO - 3
+2017-01-05 12:23:40,298 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:23:40,300 - 2AU - INFO - selected rules : [8, 2]
+2017-01-05 12:23:40,323 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:23:40,339 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:25:06,735 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:25:06,736 - 2AU - INFO - selected rules : [8, 2]
+2017-01-05 12:25:06,769 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:25:06,793 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:38:23,340 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:38:23,341 - 2AU - INFO - selected rules : [4, 1]
+2017-01-05 12:38:23,345 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:38:23,384 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:40:00,339 - 2AU - INFO - 0
+2017-01-05 12:51:03,277 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:51:03,278 - 2AU - INFO - selected rules : [4, 1]
+2017-01-05 12:51:03,281 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:51:03,305 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:51:03,395 - 2AU - INFO - 0
+2017-01-05 12:52:45,045 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:52:45,046 - 2AU - INFO - selected rules : [4, 1]
+2017-01-05 12:52:45,049 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:52:45,071 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:52:45,160 - 2AU - INFO - 0
+2017-01-05 12:53:58,413 - 2AU - INFO - ---- logger init ----
+2017-01-05 12:53:58,415 - 2AU - INFO - selected rules : [4, 1]
+2017-01-05 12:53:58,417 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:53:58,442 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:54:33,344 - 2AU - INFO - 0
+2017-01-05 14:47:32,837 - 2AU - INFO - ---- logger init ----
+2017-01-05 14:58:54,198 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:01:30,594 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:10:46,230 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:12:23,992 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:15:09,266 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:34:36,152 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:35:25,346 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:35:50,058 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:35:52,618 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:36:08,161 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:37:20,381 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:38:31,632 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:41:33,048 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:44:00,687 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:46:26,250 - 2AU - INFO - ---- logger init ----
+2017-01-05 15:46:26,252 - 2AU - INFO - selected rules : [1]
+2017-01-05 15:47:42,743 - 2AU - INFO - 0
+2017-01-05 16:19:36,535 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:23:59,635 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:26:34,835 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:28:10,689 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:29:29,629 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:32:23,623 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:32:57,478 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:33:18,134 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:35:38,190 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:36:28,822 - 2AU - INFO - ---- logger init ----
+2017-01-05 16:36:50,198 - 2AU - INFO - ---- logger init ----
+2017-01-06 14:11:01,067 - 2AU - INFO - ---- logger init ----
+2017-01-06 14:11:05,827 - 2AU - INFO - ---- logger init ----
+2017-01-06 14:11:28,275 - 2AU - INFO - ---- logger init ----
+2017-01-06 22:11:40,913 - 2AU - INFO - ---- logger init ----
+2017-01-06 22:14:36,930 - 2AU - INFO - ---- logger init ----
+2017-01-09 10:28:30,033 - 2AU - INFO - ---- logger init ----
+2017-01-09 10:28:31,375 - 2AU - INFO - ---- logger init ----
+2017-01-09 10:29:13,140 - 2AU - INFO - ---- logger init ----
+2017-01-09 10:29:13,141 - 2AU - INFO - selected rules : [1]
+2017-01-09 10:33:32,969 - 2AU - INFO - 0
+2017-01-10 10:08:38,395 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:08:38,397 - 2AU - INFO - selected rules : [8, 2]
+2017-01-10 10:08:38,443 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:08:38,464 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:35:02,352 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:35:02,353 - 2AU - INFO - selected rules : [8, 2]
+2017-01-10 10:35:02,403 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:35:02,428 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:39:52,208 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:39:53,303 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:40:39,582 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:40:49,340 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:41:00,587 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:41:07,771 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:41:43,591 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:42:23,621 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:42:59,323 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:43:13,345 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:43:15,970 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:44:39,125 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:45:38,264 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:45:38,991 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:49:02,305 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:49:02,306 - 2AU - INFO - selected rules : [8]
+2017-01-10 10:49:02,348 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:49:32,257 - 2AU - INFO - ---- logger init ----
+2017-01-10 10:49:32,883 - 2AU - INFO - ---- logger init ----
+2017-01-11 11:35:57,821 - 2AU - INFO - ---- logger init ----
+2017-01-11 11:45:39,530 - 2AU - INFO - ---- logger init ----
+2017-01-11 11:47:15,751 - 2AU - INFO - ---- logger init ----
+2017-01-11 11:48:03,907 - 2AU - INFO - ---- logger init ----
+2017-01-11 11:48:14,784 - 2AU - INFO - ---- logger init ----
+2017-01-11 11:48:23,592 - 2AU - INFO - ---- logger init ----
+2017-01-13 09:00:01,361 - 2AU - INFO - ---- logger init ----
+2017-01-13 09:00:01,363 - 2AU - INFO - selected rules : [4]
+2017-01-13 09:00:01,392 - 2AU - INFO - recipients are specified in the template : ['codex-team@lists.codex.cro.st.com']
+2017-01-13 09:00:01,416 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-13 11:57:53,951 - 2AU - INFO - ---- logger init ----
+2017-01-13 11:59:00,589 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:01:01,804 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:18:22,293 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:23:56,806 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:23:56,808 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:23:56,827 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:23:56,853 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:25:18,564 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:25:18,565 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:25:18,568 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:25:18,587 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:26:55,334 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:26:55,335 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:26:55,337 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:26:55,358 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:29:14,807 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:29:29,059 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:29:29,060 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:29:29,063 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:29:29,087 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:38:09,867 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:38:09,868 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:38:09,885 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:38:09,905 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:39:26,507 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:39:26,508 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:39:26,511 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:39:26,531 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:40:56,757 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:40:56,758 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:40:56,770 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:40:56,793 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:41:29,491 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:41:29,492 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:41:29,495 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:41:29,516 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:44:29,399 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:44:29,401 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:44:29,403 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:44:29,425 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:46:38,189 - 2AU - INFO - ---- logger init ----
+2017-01-13 12:46:38,190 - 2AU - INFO - selected rules : [4]
+2017-01-13 12:46:38,193 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:46:38,219 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 13:51:39,155 - 2AU - INFO - ---- logger init ----
+2017-01-13 13:52:08,461 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:13:33,498 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:17:24,114 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:17:37,514 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:18:21,838 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:18:21,853 - 2AU - INFO - selected rules : [4]
+2017-01-13 14:19:09,262 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:19:09,267 - 2AU - INFO - selected rules : [4]
+2017-01-13 14:19:55,516 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:19:55,521 - 2AU - INFO - selected rules : [4]
+2017-01-13 14:20:46,803 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:20:46,808 - 2AU - INFO - selected rules : [4]
+2017-01-13 14:26:02,524 - 2AU - INFO - ---- logger init ----
+2017-01-13 14:26:02,531 - 2AU - INFO - selected rules : [4]
+2017-01-13 14:26:02,550 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 14:26:02,571 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:24:54,337 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:24:54,342 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:26:13,238 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:26:13,243 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:26:16,758 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:26:16,763 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:26:28,702 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:26:28,707 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:26:28,710 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:26:28,732 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:26:52,616 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:26:52,622 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:27:11,329 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:27:11,335 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:27:33,263 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:27:33,272 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:29:28,018 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:29:28,023 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:29:51,402 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:29:51,407 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:29:51,410 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:29:51,428 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:33:02,914 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:33:06,947 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:33:45,243 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:33:45,249 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:36:50,950 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:36:50,958 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:36:50,976 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:36:51,004 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:46:44,465 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:46:44,470 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:47:10,248 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:47:10,253 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:47:49,963 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:47:49,968 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:47:49,980 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:47:50,002 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:48:23,496 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:48:27,855 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:49:05,304 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:49:33,514 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:49:33,520 - 2AU - INFO - selected rules : [4]
+2017-01-13 15:49:33,534 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:49:33,555 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:50:21,305 - 2AU - INFO - ---- logger init ----
+2017-01-13 15:50:26,279 - 2AU - INFO - ---- logger init ----
+2017-01-13 16:03:12,120 - 2AU - INFO - ---- logger init ----
+2017-01-13 16:03:12,129 - 2AU - INFO - selected rules : [4]
+2017-01-13 16:03:12,150 - 2AU - INFO - recipients are specified in the template : ['CT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:03:12,171 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['CT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:06:01,015 - 2AU - INFO - ---- logger init ----
+2017-01-13 16:06:01,021 - 2AU - INFO - selected rules : [4]
+2017-01-13 16:06:01,029 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com, benkhalifa.fares@st.com']
+2017-01-13 16:06:01,055 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com, benkhalifa.fares@st.com']
+2017-01-13 16:07:18,478 - 2AU - INFO - ---- logger init ----
+2017-01-13 16:07:18,484 - 2AU - INFO - selected rules : [4]
+2017-01-13 16:07:18,486 - 2AU - INFO - recipients are specified in the template : ['ICT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:07:18,509 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['ICT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:14:34,519 - 2AU - INFO - ---- logger init ----
+2017-01-13 16:14:34,525 - 2AU - INFO - selected rules : [4]
+2017-01-13 16:14:34,528 - 2AU - INFO - recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 16:14:34,559 - 2AU - INFO - mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']

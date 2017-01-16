@@ -1689,3 +1689,481 @@
 2016-11-18 16:58:04,516 2AU ---- logger init ----
 2016-11-21 10:14:32,071 2AU ---- logger init ----
 2016-11-21 10:15:56,762 2AU ---- logger init ----
+2017-01-03 13:27:28,245 2AU ---- logger init ----
+2017-01-03 13:39:04,122 2AU ---- logger init ----
+2017-01-03 13:39:18,403 2AU ---- logger init ----
+2017-01-03 13:39:32,341 2AU ---- logger init ----
+2017-01-03 13:39:42,433 2AU ---- logger init ----
+2017-01-03 13:40:10,307 2AU ---- logger init ----
+2017-01-03 16:28:38,188 2AU ---- logger init ----
+2017-01-03 16:32:50,688 2AU ---- logger init ----
+2017-01-03 16:33:03,007 2AU ---- logger init ----
+2017-01-03 16:33:18,056 2AU ---- logger init ----
+2017-01-03 16:34:07,639 2AU ---- logger init ----
+2017-01-03 16:34:38,885 2AU ---- logger init ----
+2017-01-03 16:34:43,033 2AU ---- logger init ----
+2017-01-03 16:35:19,836 2AU ---- logger init ----
+2017-01-03 16:35:55,836 2AU ---- logger init ----
+2017-01-03 16:36:25,802 2AU ---- logger init ----
+2017-01-03 16:38:48,306 2AU ---- logger init ----
+2017-01-03 16:39:10,596 2AU ---- logger init ----
+2017-01-03 16:39:41,924 2AU ---- logger init ----
+2017-01-03 16:40:04,100 2AU ---- logger init ----
+2017-01-03 16:40:28,421 2AU ---- logger init ----
+2017-01-03 16:40:30,818 2AU ---- logger init ----
+2017-01-03 16:41:51,200 2AU ---- logger init ----
+2017-01-03 16:42:38,481 2AU ---- logger init ----
+2017-01-03 16:43:48,214 2AU ---- logger init ----
+2017-01-03 16:44:08,855 2AU ---- logger init ----
+2017-01-03 16:44:30,840 2AU ---- logger init ----
+2017-01-03 16:44:57,577 2AU ---- logger init ----
+2017-01-03 16:45:16,715 2AU ---- logger init ----
+2017-01-03 16:45:46,687 2AU ---- logger init ----
+2017-01-03 16:45:54,220 2AU ---- logger init ----
+2017-01-03 16:46:15,727 2AU ---- logger init ----
+2017-01-03 16:46:31,961 2AU ---- logger init ----
+2017-01-03 16:47:03,227 2AU ---- logger init ----
+2017-01-03 16:47:22,484 2AU ---- logger init ----
+2017-01-03 16:47:37,901 2AU ---- logger init ----
+2017-01-03 16:48:23,383 2AU ---- logger init ----
+2017-01-03 16:49:11,470 2AU ---- logger init ----
+2017-01-03 16:49:13,439 2AU ---- logger init ----
+2017-01-03 16:49:43,226 2AU ---- logger init ----
+2017-01-03 17:00:46,446 2AU ---- logger init ----
+2017-01-03 17:04:25,568 2AU ---- logger init ----
+2017-01-03 17:05:58,598 2AU ---- logger init ----
+2017-01-03 17:07:17,118 2AU ---- logger init ----
+2017-01-03 17:07:27,081 2AU ---- logger init ----
+2017-01-03 17:07:39,858 2AU ---- logger init ----
+2017-01-03 17:07:42,569 2AU ---- logger init ----
+2017-01-03 17:07:54,148 2AU ---- logger init ----
+2017-01-03 17:08:41,068 2AU ---- logger init ----
+2017-01-03 17:10:00,618 2AU ---- logger init ----
+2017-01-03 17:13:11,132 2AU ---- logger init ----
+2017-01-03 17:13:11,134 2AU selected rules : [8]
+2017-01-03 17:13:11,212 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:15:11,164 2AU ---- logger init ----
+2017-01-03 17:15:11,165 2AU selected rules : [8]
+2017-01-03 17:15:11,189 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:15:14,204 2AU ---- logger init ----
+2017-01-03 17:16:53,573 2AU ---- logger init ----
+2017-01-03 17:17:40,777 2AU ---- logger init ----
+2017-01-03 17:18:01,931 2AU ---- logger init ----
+2017-01-03 17:18:32,786 2AU ---- logger init ----
+2017-01-03 17:18:47,299 2AU ---- logger init ----
+2017-01-03 17:19:49,194 2AU ---- logger init ----
+2017-01-03 17:20:51,060 2AU ---- logger init ----
+2017-01-03 17:23:23,424 2AU ---- logger init ----
+2017-01-03 17:27:01,178 2AU ---- logger init ----
+2017-01-03 17:28:10,964 2AU ---- logger init ----
+2017-01-03 17:30:09,799 2AU ---- logger init ----
+2017-01-03 17:30:18,869 2AU ---- logger init ----
+2017-01-03 17:30:55,486 2AU ---- logger init ----
+2017-01-03 17:31:06,242 2AU ---- logger init ----
+2017-01-03 17:31:06,243 2AU selected rules : [4, 1]
+2017-01-03 17:31:06,271 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:31:06,293 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-03 17:31:06,402 p=17169 u=root |  PLAY [all] *********************************************************************
+2017-01-04 09:56:26,676 2AU ---- logger init ----
+2017-01-04 09:56:26,677 2AU selected rules : [4, 1]
+2017-01-04 09:56:26,688 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 09:56:26,709 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 09:56:26,795 p=19129 u=root |  PLAY [all] *********************************************************************
+2017-01-04 11:28:03,329 2AU ---- logger init ----
+2017-01-04 11:28:03,330 2AU selected rules : [4, 1]
+2017-01-04 11:28:03,346 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:28:03,371 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:28:03,464 p=19349 u=root |  PLAY [all] *********************************************************************
+2017-01-04 11:29:55,164 2AU ---- logger init ----
+2017-01-04 11:29:55,166 2AU selected rules : [4, 1]
+2017-01-04 11:29:55,170 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:29:55,192 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 11:29:55,337 p=19419 u=root |  PLAY [all] *********************************************************************
+2017-01-04 15:05:43,145 2AU ---- logger init ----
+2017-01-04 15:05:43,147 2AU selected rules : [4, 1]
+2017-01-04 15:05:43,152 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:05:43,174 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:05:43,335 p=25628 u=root |  PLAY [all] *********************************************************************
+2017-01-04 15:05:43,409 p=25628 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the
+task/block/play. You should use a different variable name to avoid conflicts with this internal variable
+
+2017-01-04 15:05:43,409 p=25628 u=root |  TASK [setup] *******************************************************************
+2017-01-04 15:05:43,692 p=25628 u=root |  fatal: [codex.cro]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh.", "unreachable": true}
+2017-01-04 15:05:43,699 p=25628 u=root |  	to retry, use: --limit @/root/2AU_python_script/playbook/playbooks/raf.retry
+
+2017-01-04 15:05:43,699 p=25628 u=root |  PLAY RECAP *********************************************************************
+2017-01-04 15:05:43,699 p=25628 u=root |  codex.cro                  : ok=0    changed=0    unreachable=1    failed=0   
+2017-01-04 15:06:46,160 2AU ---- logger init ----
+2017-01-04 15:06:46,161 2AU selected rules : [4, 1]
+2017-01-04 15:06:46,169 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:06:46,201 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:06:46,295 p=25640 u=root |  PLAY [all] *********************************************************************
+2017-01-04 15:06:46,323 p=25640 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You
+should use a different variable name to avoid conflicts with this internal variable
+
+2017-01-04 15:06:46,323 p=25640 u=root |  TASK [setup] *******************************************************************
+2017-01-04 15:06:46,547 p=25640 u=root |  fatal: [codex.cro]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh.", "unreachable": true}
+2017-01-04 15:06:46,552 p=25640 u=root |  	to retry, use: --limit @/root/2AU_python_script/playbook/playbooks/raf.retry
+
+2017-01-04 15:06:46,553 p=25640 u=root |  PLAY RECAP *********************************************************************
+2017-01-04 15:06:46,553 p=25640 u=root |  codex.cro                  : ok=0    changed=0    unreachable=1    failed=0   
+2017-01-04 15:06:46,553 2AU 3
+2017-01-04 15:10:42,046 2AU ---- logger init ----
+2017-01-04 15:10:42,047 2AU selected rules : [4, 1]
+2017-01-04 15:10:42,058 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:42,109 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:42,273 p=25655 u=root |  PLAY [all] *********************************************************************
+2017-01-04 15:10:42,324 p=25655 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You
+should use a different variable name to avoid conflicts with this internal variable
+
+2017-01-04 15:10:42,325 p=25655 u=root |  TASK [setup] *******************************************************************
+2017-01-04 15:10:45,841 p=25655 u=root |  fatal: [codex-test.cro.st.com]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh.", "unreachable": true}
+2017-01-04 15:10:45,848 p=25655 u=root |  	to retry, use: --limit @/root/2AU_python_script/playbook/playbooks/raf.retry
+
+2017-01-04 15:10:45,848 p=25655 u=root |  PLAY RECAP *********************************************************************
+2017-01-04 15:10:45,849 p=25655 u=root |  codex-test.cro.st.com      : ok=0    changed=0    unreachable=1    failed=0   
+2017-01-04 15:10:45,849 2AU 3
+2017-01-04 15:10:47,640 2AU ---- logger init ----
+2017-01-04 15:10:47,641 2AU selected rules : [4, 1]
+2017-01-04 15:10:47,643 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:47,664 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:10:47,757 p=25665 u=root |  PLAY [all] *********************************************************************
+2017-01-04 15:10:47,783 p=25665 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You
+should use a different variable name to avoid conflicts with this internal variable
+
+2017-01-04 15:10:47,783 p=25665 u=root |  TASK [setup] *******************************************************************
+2017-01-04 15:10:48,109 p=25665 u=root |  fatal: [codex-test.cro.st.com]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh.", "unreachable": true}
+2017-01-04 15:10:48,115 p=25665 u=root |  	to retry, use: --limit @/root/2AU_python_script/playbook/playbooks/raf.retry
+
+2017-01-04 15:10:48,115 p=25665 u=root |  PLAY RECAP *********************************************************************
+2017-01-04 15:10:48,115 p=25665 u=root |  codex-test.cro.st.com      : ok=0    changed=0    unreachable=1    failed=0   
+2017-01-04 15:10:48,115 2AU 3
+2017-01-04 15:11:17,436 2AU ---- logger init ----
+2017-01-04 15:11:17,437 2AU selected rules : [8, 2]
+2017-01-04 15:11:17,459 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-04 15:11:17,479 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 09:55:23,117 2AU ---- logger init ----
+2017-01-05 12:18:04,722 2AU ---- logger init ----
+2017-01-05 12:18:48,824 2AU ---- logger init ----
+2017-01-05 12:19:27,950 2AU ---- logger init ----
+2017-01-05 12:19:55,329 2AU ---- logger init ----
+2017-01-05 12:21:47,483 2AU ---- logger init ----
+2017-01-05 12:22:53,742 2AU ---- logger init ----
+2017-01-05 12:23:08,230 2AU ---- logger init ----
+2017-01-05 12:23:08,231 2AU selected rules : [4, 1]
+2017-01-05 12:23:08,256 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:23:08,282 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:23:08,373 p=1080 u=root |  PLAY [all] *********************************************************************
+2017-01-05 12:23:08,402 p=1080 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You should use a different variable name to avoid conflicts with this internal
+variable
+
+2017-01-05 12:23:08,402 p=1080 u=root |  TASK [setup] *******************************************************************
+2017-01-05 12:23:08,744 p=1080 u=root |  fatal: [codex-test.cro.st.com]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh.", "unreachable": true}
+2017-01-05 12:23:08,751 p=1080 u=root |  	to retry, use: --limit @/root/2AU_python_script/playbook/playbooks/raf.retry
+
+2017-01-05 12:23:08,751 p=1080 u=root |  PLAY RECAP *********************************************************************
+2017-01-05 12:23:08,752 p=1080 u=root |  codex-test.cro.st.com      : ok=0    changed=0    unreachable=1    failed=0   
+2017-01-05 12:23:08,752 2AU 3
+2017-01-05 12:23:40,298 2AU ---- logger init ----
+2017-01-05 12:23:40,300 2AU selected rules : [8, 2]
+2017-01-05 12:23:40,323 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:23:40,339 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:25:06,735 2AU ---- logger init ----
+2017-01-05 12:25:06,736 2AU selected rules : [8, 2]
+2017-01-05 12:25:06,769 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:25:06,793 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:38:23,340 2AU ---- logger init ----
+2017-01-05 12:38:23,341 2AU selected rules : [4, 1]
+2017-01-05 12:38:23,345 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:38:23,384 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:38:23,542 p=1129 u=root |  PLAY [all] *********************************************************************
+2017-01-05 12:38:23,587 p=1129 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You should use a different variable name to avoid conflicts with this internal
+variable
+
+2017-01-05 12:38:23,587 p=1129 u=root |  TASK [setup] *******************************************************************
+2017-01-05 12:38:26,566 p=1129 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:38:26,626 p=1129 u=root |  TASK [Add TuleapDirect repository] *********************************************
+2017-01-05 12:38:27,257 p=1129 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:38:27,272 p=1129 u=root |  TASK [create  /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64 if it doesn't exist] ***
+2017-01-05 12:38:28,052 p=1129 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:38:28,067 p=1129 u=root |  TASK [create Backup folder /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/backup if it doesn't exist] ***
+2017-01-05 12:38:28,631 p=1129 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:38:28,642 p=1129 u=root |  TASK [Backup old rpms] *********************************************************
+2017-01-05 12:38:31,668 p=1129 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:38:31,683 p=1129 u=root |  TASK [Download rpms under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-05 12:39:54,207 p=1129 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:39:54,208 p=1129 u=root |   [WARNING]: Consider using yum module rather than running yum
+
+2017-01-05 12:39:54,223 p=1129 u=root |  TASK [create repository under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-05 12:39:59,349 p=1129 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:39:59,359 p=1129 u=root |  TASK [change repositrie's files permissions and ownsership] ********************
+2017-01-05 12:39:59,914 p=1129 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:39:59,926 p=1129 u=root |  TASK [change repodata permission to 777] ***************************************
+2017-01-05 12:40:00,330 p=1129 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:40:00,338 p=1129 u=root |  PLAY RECAP *********************************************************************
+2017-01-05 12:40:00,339 p=1129 u=root |  codex-test.cro.st.com      : ok=9    changed=5    unreachable=0    failed=0   
+2017-01-05 12:40:00,339 2AU 0
+2017-01-05 12:51:03,277 2AU ---- logger init ----
+2017-01-05 12:51:03,278 2AU selected rules : [4, 1]
+2017-01-05 12:51:03,281 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:51:03,305 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:51:03,307 p=1229 u=root |   [WARNING]: Host file not found: codex-test.cro.st.com
+
+2017-01-05 12:51:03,395 p=1229 u=root |  PLAY [all] *********************************************************************
+2017-01-05 12:51:03,395 p=1229 u=root |  skipping: no hosts matched
+2017-01-05 12:51:03,395 p=1229 u=root |  PLAY RECAP *********************************************************************
+2017-01-05 12:51:03,395 2AU 0
+2017-01-05 12:52:45,045 2AU ---- logger init ----
+2017-01-05 12:52:45,046 2AU selected rules : [4, 1]
+2017-01-05 12:52:45,049 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:52:45,071 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:52:45,072 p=1238 u=root |   [WARNING]: Host file not found: codex-test.cro.st.com
+
+2017-01-05 12:52:45,159 p=1238 u=root |  PLAY [all] *********************************************************************
+2017-01-05 12:52:45,159 p=1238 u=root |  skipping: no hosts matched
+2017-01-05 12:52:45,160 p=1238 u=root |  PLAY RECAP *********************************************************************
+2017-01-05 12:52:45,160 2AU 0
+2017-01-05 12:53:58,413 2AU ---- logger init ----
+2017-01-05 12:53:58,415 2AU selected rules : [4, 1]
+2017-01-05 12:53:58,417 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:53:58,442 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-05 12:53:58,539 p=1245 u=root |  PLAY [all] *********************************************************************
+2017-01-05 12:53:58,565 p=1245 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You should use a different variable name to avoid conflicts with this internal
+variable
+
+2017-01-05 12:53:58,566 p=1245 u=root |  TASK [setup] *******************************************************************
+2017-01-05 12:54:00,155 p=1245 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:54:00,190 p=1245 u=root |  TASK [Add TuleapDirect repository] *********************************************
+2017-01-05 12:54:00,841 p=1245 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:54:00,852 p=1245 u=root |  TASK [create  /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64 if it doesn't exist] ***
+2017-01-05 12:54:02,300 p=1245 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:54:02,311 p=1245 u=root |  TASK [create Backup folder /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/backup if it doesn't exist] ***
+2017-01-05 12:54:02,843 p=1245 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 12:54:02,854 p=1245 u=root |  TASK [Backup old rpms] *********************************************************
+2017-01-05 12:54:03,824 p=1245 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:54:03,838 p=1245 u=root |  TASK [Download rpms under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-05 12:54:26,916 p=1245 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:54:26,917 p=1245 u=root |   [WARNING]: Consider using yum module rather than running yum
+
+2017-01-05 12:54:26,932 p=1245 u=root |  TASK [create repository under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-05 12:54:32,225 p=1245 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:54:32,235 p=1245 u=root |  TASK [change repositrie's files permissions and ownsership] ********************
+2017-01-05 12:54:32,756 p=1245 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:54:32,768 p=1245 u=root |  TASK [change repodata permission to 777] ***************************************
+2017-01-05 12:54:33,335 p=1245 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 12:54:33,344 p=1245 u=root |  PLAY RECAP *********************************************************************
+2017-01-05 12:54:33,344 p=1245 u=root |  codex-test.cro.st.com      : ok=9    changed=5    unreachable=0    failed=0   
+2017-01-05 12:54:33,344 2AU 0
+2017-01-05 14:47:32,837 2AU ---- logger init ----
+2017-01-05 14:58:54,198 2AU ---- logger init ----
+2017-01-05 15:01:30,594 2AU ---- logger init ----
+2017-01-05 15:10:46,230 2AU ---- logger init ----
+2017-01-05 15:34:36,152 2AU ---- logger init ----
+2017-01-05 15:35:25,346 2AU ---- logger init ----
+2017-01-05 15:35:50,058 2AU ---- logger init ----
+2017-01-05 15:35:52,618 2AU ---- logger init ----
+2017-01-05 15:36:08,161 2AU ---- logger init ----
+2017-01-05 15:37:20,381 2AU ---- logger init ----
+2017-01-05 15:38:31,632 2AU ---- logger init ----
+2017-01-05 15:41:33,048 2AU ---- logger init ----
+2017-01-05 15:44:00,687 2AU ---- logger init ----
+2017-01-05 15:46:26,250 2AU ---- logger init ----
+2017-01-05 15:46:26,252 2AU selected rules : [1]
+2017-01-05 15:46:26,354 p=1852 u=root |  PLAY [all] *********************************************************************
+2017-01-05 15:46:26,379 p=1852 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You should use a different variable name to avoid conflicts with this internal
+variable
+
+2017-01-05 15:46:26,380 p=1852 u=root |  TASK [setup] *******************************************************************
+2017-01-05 15:46:29,153 p=1852 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 15:46:29,187 p=1852 u=root |  TASK [Add TuleapDirect repository] *********************************************
+2017-01-05 15:46:29,926 p=1852 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 15:46:29,941 p=1852 u=root |  TASK [create  /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64 if it doesn't exist] ***
+2017-01-05 15:46:30,748 p=1852 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 15:46:30,762 p=1852 u=root |  TASK [create Backup folder /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/backup if it doesn't exist] ***
+2017-01-05 15:46:31,277 p=1852 u=root |  ok: [codex-test.cro.st.com]
+2017-01-05 15:46:31,290 p=1852 u=root |  TASK [Backup old rpms] *********************************************************
+2017-01-05 15:46:32,114 p=1852 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 15:46:32,129 p=1852 u=root |  TASK [Download rpms under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-05 15:47:40,250 p=1852 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 15:47:40,251 p=1852 u=root |   [WARNING]: Consider using yum module rather than running yum
+
+2017-01-05 15:47:40,265 p=1852 u=root |  TASK [create repository under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-05 15:47:41,700 p=1852 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 15:47:41,711 p=1852 u=root |  TASK [change repositrie's files permissions and ownsership] ********************
+2017-01-05 15:47:42,234 p=1852 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 15:47:42,242 p=1852 u=root |  TASK [change repodata permission to 777] ***************************************
+2017-01-05 15:47:42,735 p=1852 u=root |  changed: [codex-test.cro.st.com]
+2017-01-05 15:47:42,742 p=1852 u=root |  PLAY RECAP *********************************************************************
+2017-01-05 15:47:42,743 p=1852 u=root |  codex-test.cro.st.com      : ok=9    changed=6    unreachable=0    failed=0   
+2017-01-05 15:47:42,743 2AU 0
+2017-01-09 10:29:13,140 2AU ---- logger init ----
+2017-01-09 10:29:13,141 2AU selected rules : [1]
+2017-01-09 10:29:13,237 p=10130 u=root |  PLAY [all] *********************************************************************
+2017-01-09 10:29:13,261 p=10130 u=root |   [WARNING]: The variable 'environment' appears to be used already, which is also used internally for environment variables set on the task/block/play. You should use a different variable name to avoid conflicts with this internal
+variable
+
+2017-01-09 10:29:13,262 p=10130 u=root |  TASK [setup] *******************************************************************
+2017-01-09 10:29:14,947 p=10130 u=root |  ok: [codex-test.cro.st.com]
+2017-01-09 10:29:14,982 p=10130 u=root |  TASK [Add TuleapDirect repository] *********************************************
+2017-01-09 10:29:15,583 p=10130 u=root |  ok: [codex-test.cro.st.com]
+2017-01-09 10:29:15,597 p=10130 u=root |  TASK [create  /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64 if it doesn't exist] ***
+2017-01-09 10:29:16,238 p=10130 u=root |  changed: [codex-test.cro.st.com]
+2017-01-09 10:29:16,252 p=10130 u=root |  TASK [create Backup folder /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/backup if it doesn't exist] ***
+2017-01-09 10:29:16,820 p=10130 u=root |  ok: [codex-test.cro.st.com]
+2017-01-09 10:29:16,830 p=10130 u=root |  TASK [Backup old rpms] *********************************************************
+2017-01-09 10:29:17,557 p=10130 u=root |  changed: [codex-test.cro.st.com]
+2017-01-09 10:29:17,573 p=10130 u=root |  TASK [Download rpms under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-09 10:33:29,780 p=10130 u=root |  changed: [codex-test.cro.st.com]
+2017-01-09 10:33:29,781 p=10130 u=root |   [WARNING]: Consider using yum module rather than running yum
+
+2017-01-09 10:33:29,800 p=10130 u=root |  TASK [create repository under /var/lib/codendi/ftp/pub/codex-cc/yum/tuleap/rhel/6/stable/x86_64] ***
+2017-01-09 10:33:31,825 p=10130 u=root |  changed: [codex-test.cro.st.com]
+2017-01-09 10:33:31,836 p=10130 u=root |  TASK [change repositrie's files permissions and ownsership] ********************
+2017-01-09 10:33:32,614 p=10130 u=root |  changed: [codex-test.cro.st.com]
+2017-01-09 10:33:32,624 p=10130 u=root |  TASK [change repodata permission to 777] ***************************************
+2017-01-09 10:33:32,959 p=10130 u=root |  changed: [codex-test.cro.st.com]
+2017-01-09 10:33:32,968 p=10130 u=root |  PLAY RECAP *********************************************************************
+2017-01-09 10:33:32,968 p=10130 u=root |  codex-test.cro.st.com      : ok=9    changed=6    unreachable=0    failed=0   
+2017-01-09 10:33:32,969 2AU 0
+2017-01-10 10:08:38,395 2AU ---- logger init ----
+2017-01-10 10:08:38,397 2AU selected rules : [8, 2]
+2017-01-10 10:08:38,443 2AU mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:08:38,464 2AU mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:35:02,352 2AU ---- logger init ----
+2017-01-10 10:35:02,353 2AU selected rules : [8, 2]
+2017-01-10 10:35:02,403 2AU mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:35:02,428 2AU mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-10 10:41:43,591 2AU ---- logger init ----
+2017-01-10 10:42:23,621 2AU ---- logger init ----
+2017-01-10 10:42:59,323 2AU ---- logger init ----
+2017-01-10 10:43:13,345 2AU ---- logger init ----
+2017-01-10 10:43:15,970 2AU ---- logger init ----
+2017-01-10 10:44:39,125 2AU ---- logger init ----
+2017-01-10 10:49:02,305 2AU ---- logger init ----
+2017-01-10 10:49:02,306 2AU selected rules : [8]
+2017-01-10 10:49:02,348 2AU mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-11 11:35:57,821 2AU ---- logger init ----
+2017-01-11 11:45:39,530 2AU ---- logger init ----
+2017-01-11 11:47:15,751 2AU ---- logger init ----
+2017-01-13 09:00:01,361 2AU ---- logger init ----
+2017-01-13 09:00:01,363 2AU selected rules : [4]
+2017-01-13 09:00:01,392 2AU recipients are specified in the template : ['codex-team@lists.codex.cro.st.com']
+2017-01-13 09:00:01,416 2AU mail sent from upgradeAutomation@st.com to ['codex-team@lists.codex.cro.st.com']
+2017-01-13 11:57:53,951 2AU ---- logger init ----
+2017-01-13 11:59:00,589 2AU ---- logger init ----
+2017-01-13 12:01:01,804 2AU ---- logger init ----
+2017-01-13 12:18:22,293 2AU ---- logger init ----
+2017-01-13 12:23:56,806 2AU ---- logger init ----
+2017-01-13 12:23:56,808 2AU selected rules : [4]
+2017-01-13 12:23:56,827 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:23:56,853 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:25:18,564 2AU ---- logger init ----
+2017-01-13 12:25:18,565 2AU selected rules : [4]
+2017-01-13 12:25:18,568 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:25:18,587 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:26:55,334 2AU ---- logger init ----
+2017-01-13 12:26:55,335 2AU selected rules : [4]
+2017-01-13 12:26:55,337 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:26:55,358 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:29:14,807 2AU ---- logger init ----
+2017-01-13 12:29:29,059 2AU ---- logger init ----
+2017-01-13 12:29:29,060 2AU selected rules : [4]
+2017-01-13 12:29:29,063 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:29:29,087 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:38:09,867 2AU ---- logger init ----
+2017-01-13 12:38:09,868 2AU selected rules : [4]
+2017-01-13 12:38:09,885 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:38:09,905 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:39:26,507 2AU ---- logger init ----
+2017-01-13 12:39:26,508 2AU selected rules : [4]
+2017-01-13 12:39:26,511 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:39:26,531 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:40:56,757 2AU ---- logger init ----
+2017-01-13 12:40:56,758 2AU selected rules : [4]
+2017-01-13 12:40:56,770 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:40:56,793 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:41:29,491 2AU ---- logger init ----
+2017-01-13 12:41:29,492 2AU selected rules : [4]
+2017-01-13 12:41:29,495 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:41:29,516 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:44:29,399 2AU ---- logger init ----
+2017-01-13 12:44:29,401 2AU selected rules : [4]
+2017-01-13 12:44:29,403 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:44:29,425 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:46:38,189 2AU ---- logger init ----
+2017-01-13 12:46:38,190 2AU selected rules : [4]
+2017-01-13 12:46:38,193 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 12:46:38,219 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 13:51:39,155 2AU ---- logger init ----
+2017-01-13 13:52:08,461 2AU ---- logger init ----
+2017-01-13 14:13:33,498 2AU ---- logger init ----
+2017-01-13 14:17:24,114 2AU ---- logger init ----
+2017-01-13 14:17:37,514 2AU ---- logger init ----
+2017-01-13 14:18:21,838 2AU ---- logger init ----
+2017-01-13 14:18:21,853 2AU selected rules : [4]
+2017-01-13 14:19:09,262 2AU ---- logger init ----
+2017-01-13 14:19:09,267 2AU selected rules : [4]
+2017-01-13 14:19:55,516 2AU ---- logger init ----
+2017-01-13 14:19:55,521 2AU selected rules : [4]
+2017-01-13 14:20:46,803 2AU ---- logger init ----
+2017-01-13 14:20:46,808 2AU selected rules : [4]
+2017-01-13 14:26:02,524 2AU ---- logger init ----
+2017-01-13 14:26:02,531 2AU selected rules : [4]
+2017-01-13 14:26:02,550 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 14:26:02,571 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:24:54,337 2AU ---- logger init ----
+2017-01-13 15:24:54,342 2AU selected rules : [4]
+2017-01-13 15:26:13,238 2AU ---- logger init ----
+2017-01-13 15:26:13,243 2AU selected rules : [4]
+2017-01-13 15:26:16,758 2AU ---- logger init ----
+2017-01-13 15:26:16,763 2AU selected rules : [4]
+2017-01-13 15:26:28,702 2AU ---- logger init ----
+2017-01-13 15:26:28,707 2AU selected rules : [4]
+2017-01-13 15:26:28,710 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:26:28,732 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:26:52,616 2AU ---- logger init ----
+2017-01-13 15:26:52,622 2AU selected rules : [4]
+2017-01-13 15:27:11,329 2AU ---- logger init ----
+2017-01-13 15:27:11,335 2AU selected rules : [4]
+2017-01-13 15:27:33,263 2AU ---- logger init ----
+2017-01-13 15:27:33,272 2AU selected rules : [4]
+2017-01-13 15:29:28,018 2AU ---- logger init ----
+2017-01-13 15:29:28,023 2AU selected rules : [4]
+2017-01-13 15:29:51,402 2AU ---- logger init ----
+2017-01-13 15:29:51,407 2AU selected rules : [4]
+2017-01-13 15:29:51,410 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:29:51,428 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:33:45,243 2AU ---- logger init ----
+2017-01-13 15:33:45,249 2AU selected rules : [4]
+2017-01-13 15:36:50,950 2AU ---- logger init ----
+2017-01-13 15:36:50,958 2AU selected rules : [4]
+2017-01-13 15:36:50,976 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:36:51,004 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:46:44,465 2AU ---- logger init ----
+2017-01-13 15:46:44,470 2AU selected rules : [4]
+2017-01-13 15:47:10,248 2AU ---- logger init ----
+2017-01-13 15:47:10,253 2AU selected rules : [4]
+2017-01-13 15:47:49,963 2AU ---- logger init ----
+2017-01-13 15:47:49,968 2AU selected rules : [4]
+2017-01-13 15:47:49,980 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:47:50,002 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:49:33,514 2AU ---- logger init ----
+2017-01-13 15:49:33,520 2AU selected rules : [4]
+2017-01-13 15:49:33,534 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 15:49:33,555 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']
+2017-01-13 16:03:12,120 2AU ---- logger init ----
+2017-01-13 16:03:12,129 2AU selected rules : [4]
+2017-01-13 16:03:12,150 2AU recipients are specified in the template : ['CT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:03:12,171 2AU mail sent from upgradeAutomation@st.com to ['CT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:06:01,015 2AU ---- logger init ----
+2017-01-13 16:06:01,021 2AU selected rules : [4]
+2017-01-13 16:06:01,029 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com, benkhalifa.fares@st.com']
+2017-01-13 16:06:01,055 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com, benkhalifa.fares@st.com']
+2017-01-13 16:07:18,478 2AU ---- logger init ----
+2017-01-13 16:07:18,484 2AU selected rules : [4]
+2017-01-13 16:07:18,486 2AU recipients are specified in the template : ['ICT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:07:18,509 2AU mail sent from upgradeAutomation@st.com to ['ICT_ProdOps_Mgmt_Crolles@list.st.com, codex-team@lists.codex.cro.st.com, crolles.bynight@st.com']
+2017-01-13 16:14:34,519 2AU ---- logger init ----
+2017-01-13 16:14:34,525 2AU selected rules : [4]
+2017-01-13 16:14:34,528 2AU recipients are specified in the template : ['mohamed-rafik.benmansour@st.com']
+2017-01-13 16:14:34,559 2AU mail sent from upgradeAutomation@st.com to ['mohamed-rafik.benmansour@st.com']

@@ -8,4 +8,4 @@
 
 import dao
 
-dao = dao.dao
+DAO = dao.DAO

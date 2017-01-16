@@ -85,4 +85,4 @@ class playbook:
                                 options=options,
                                 passwords=passwords)
         results = pbex.run()
-        logger.info(results)
+        self.logger.info(results)

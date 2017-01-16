@@ -12,6 +12,7 @@
 # http://docs.ansible.com/ansible/intro_installation.html#running-from-source
 
 app_location = "/root/2AU_python_script"
+python_location = "/usr/local/bin/python"
 #sendmail, download packages and create repo before the deadline in days
 deadline = 3
 opretionLaunchTime = "6:00h"
@@ -20,7 +21,13 @@ opretionFinishTime = "7:00h"
 #email configuration
 send_mail = 1
 sender_email_address = "upgradeAutomation@st.com"
-recipients_email_address = ["mohamed-rafik.benmansour@st.com"]
+#In case you want to force the email address for only one type of mail you have to force it in the mail template under mailContent by specifying th email like it is shown below
+#===TO
+#mohamed-rafik.benmansour@st.com
+#TO===
+
+recipients_email_address = ["codex-team@lists.codex.cro.st.com"]
+
 smtp_server= "smtpapp1.cro.st.com"
 
 testPlatformLink = "crx19006.cro.st.com:8082"
@@ -39,6 +46,8 @@ defined_rules = {
     }
 
 #to run related playbooks
+hostingPlatform = ["codex-test.cro.st.com"]
+#if set to 0, even when passed in the params the playbooks won't launch
 run_playbooks = 1
 playbooks_path = "/root/2AU_python_script/playbook/playbooks/"
 
@@ -56,22 +65,16 @@ cron_hour = 9
 cron_minute = 0
 
 #DB informations
-host="10.157.15.161"
-user="2AU"
-passwd="password"
+#DB creation query
+#GRANT ALL PRIVILEGES ON dbTest.* To 'user'@'hostname' IDENTIFIED BY 'password';
+
+#in order to launch the restful server you have to issue the following comma	nd as root
+# cd /root/2AU_python_script/webservices & python webserver.py > /dev/null 2>&1 
+db_host="localhost"
+db_user="admin"
+db_passwd="password"
 db_name="2AU"
+db_port="3306"
 
 #Web server infos
-port = "8081"
-
-
-
-
-
-
-
-
-
-
-#draft
-instance = "codex-test.draft"
+server_port = "8080"
